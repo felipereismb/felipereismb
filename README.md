@@ -1,8 +1,8 @@
 ## Hello, I’m Felipe Reis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipereismb/)](https://www.linkedin.com/in/felipereismb/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://twitter.com/Felipermbarbosa)](https://twitter.com/Felipermbarbosa)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.instagram.com/felipereismb/)](https://www.instagram.com/felipereismb/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/felipereismb)](https://www.instagram.com/felipereismb)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Felipermbarbosa/)](https://twitter.com/Felipermbarbosa/)
 
 I'm a Software Engineer focused on Web development, I'm 24 years old and based in Brazil. I currently work at <a href="https://www.amedigital.com/">Ame Digital</a>, revolutionize the way people relate to money. I've developed the most diverse applications for several reference companies in the market such as <a href="https://www.popeyesbrasil.com.br/">Popeyes Brasil</a>, <a href="https://www.auttar.com.br">Auttar</a>, <a href="https://folhacerta.com/">Folhacerta</a> and <a href="https://zappts.com">Zappts</a>.
 
