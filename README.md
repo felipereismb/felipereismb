@@ -1,11 +1,10 @@
 ## Hello, I’m Felipe Reis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipereismb/)](https://www.linkedin.com/in/felipereismb/) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Felipermbarbosa)](https://twitter.com/Felipermbarbosa)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipereismb/)](https://www.linkedin.com/in/felipereismb/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://twitter.com/Felipermbarbosa)](https://twitter.com/Felipermbarbosa)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://www.instagram.com/felipereismb/)](https://www.instagram.com/felipereismb/)
 
-
-I'm a Software Engineer focused on Web development, I'm 24 years old and based in Brazil. I currently work at <a href="https://www.amedigital.com/">Ame Digital</a>, revolutionize the way people relate to money. I've developed the most diverse applications for several reference companies in the market such as <a href="https://www.popeyesbrasil.com.br/">Popeyes Brasil</a>, <a href="https://folhacerta.com/">Folhacerta</a>, <a href="https://www.auttar.com.br">Auttar</a> and <a href="https://zappts.com">Zappts</a>.
-
+I'm a Software Engineer focused on Web development, I'm 24 years old and based in Brazil. I currently work at <a href="https://www.amedigital.com/">Ame Digital</a>, revolutionize the way people relate to money. I've developed the most diverse applications for several reference companies in the market such as <a href="https://www.popeyesbrasil.com.br/">Popeyes Brasil</a>, <a href="https://www.auttar.com.br">Auttar</a>, <a href="https://folhacerta.com/">Folhacerta</a> and <a href="https://zappts.com">Zappts</a>.
 
 **Languages and Tools 🚀**
 
@@ -37,8 +36,6 @@ I'm a Software Engineer focused on Web development, I'm 24 years old and based i
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 <a href="http://figma.com" title="Figma"><img src="https://camo.githubusercontent.com/9c25db6c8f2f83863c65be2cc47543020be957662831452aa5a7d6d81129f6fe/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6669676d612e737667" alt="Figma" width="21px" height="21px"></a>
 
-
-
 <table align="center">
   <row>
     <td>
@@ -49,7 +46,7 @@ I'm a Software Engineer focused on Web development, I'm 24 years old and based i
       <img height='200' src='https://github-readme-stats.vercel.app/api?username=felipermb&show_icons=true&theme=react'>
     </td>
   </row>
-</table> 
+</table>
 
 <p align="center">
     <a href="https://github.com/felipermb" target="_blank"><img alt="felipermb" src="https://badges.pufler.dev/visits/felipermb/felipermb?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
