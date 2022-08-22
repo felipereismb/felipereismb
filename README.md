@@ -9,7 +9,7 @@ Hi, I'm 24 years old and based in Brazil, Computer Scientist graduated from UFT,
 
 Awarded 1st place in the Open Banking Hacka, a competition aimed at building solutions with Open Banking technology, and 1st in the CNT Transport Hackathon, also a competition focused on solutions that encompass the national research of highways and transportation, carried out by the CNT.
 
-I currently work at <a href="https://www.amedigital.com/">Ame Digital</a>, revolutionize the way people relate to money. I've developed the most diverse applications for several reference companies in the market such as <a href="https://www.popeyesbrasil.com.br/">Popeyes Brasil</a>, <a href="https://www.auttar.com.br">Auttar</a>, <a href="https://folhacerta.com/">Folhacerta</a> and <a href="https://zappts.com">Zappts</a>.
+I currently work at <a href="https://www.xpi.com.br/">XP Inc.</a>, 20 years transforming the financial market to improve people's life. I've developed the most diverse applications for several reference companies in the market such as <a href="https://corretora.clear.com.br/">Clear</a>, <a href="https://www.amedigital.com/">Ame Digital</a>, <a href="https://www.popeyesbrasil.com.br/">Popeyes Brasil</a>, <a href="https://www.auttar.com.br">Auttar</a>, <a href="https://folhacerta.com/">Folhacerta</a> and <a href="https://zappts.com">Zappts</a>.
 
 **Languages and Tools 🚀**
 
