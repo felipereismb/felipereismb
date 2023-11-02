@@ -48,14 +48,14 @@ I currently work at <a href="https://www.xpi.com.br/">XP Inc.</a>, 20 years tran
   <row>
     <td>
      <!-- Card -->
-      <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=felipermb&layout=compact&theme=react'>
+      <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=felipereismb&layout=compact&theme=react'>
     </td>
     <td>
-      <img height='200' src='https://github-readme-stats.vercel.app/api?username=felipermb&show_icons=true&theme=react'>
+      <img height='200' src='https://github-readme-stats.vercel.app/api?username=felipereismb&show_icons=true&theme=react'>
     </td>
   </row>
 </table>
 
 <p align="center">
-    <a href="https://github.com/felipermb" target="_blank"><img alt="felipermb" src="https://badges.pufler.dev/visits/felipermb/felipermb?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/felipereismb" target="_blank"><img alt="felipereismb" src="https://badges.pufler.dev/visits/felipereismb/felipereismb?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
 </p>
