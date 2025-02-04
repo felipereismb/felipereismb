@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Felipermbarbosa/)](https://twitter.com/Felipermbarbosa/)
 
 
-Hi, I'm 26 years old and based in Brazil, Computer Scientist graduated from UFT, with extensive experience in software and product development.
+Hi, I'm 27 years old and based in Brazil, Computer Scientist graduated from UFT, with extensive experience in software and product development.
 
 Awarded 1st place in the Open Banking Hacka, a competition aimed at building solutions with Open Banking technology, and 1st in the CNT Transport Hackathon, also a competition focused on solutions that encompass the national research of highways and transportation, carried out by the CNT.
 
